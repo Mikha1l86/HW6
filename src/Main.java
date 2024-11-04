@@ -84,7 +84,6 @@ public class Main {
         }
 //Задача 8
         System.out.println("Задача 8");
-
         int period = 79;
         int startSeeing = 0;
         int start = currentYear - 200;
