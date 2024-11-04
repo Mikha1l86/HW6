@@ -82,7 +82,7 @@ public class Main {
 
         //Задача 10
         System.out.println("Задача 10");
-        for (int multiplicat = 1; multiplicat <= 10; multiplicat ++) {
+        for (int multiplicat = 1; multiplicat <= 10; multiplicat++) {
             System.out.printf("%d * %d = %d%n", 2, multiplicat, 2 * multiplicat);
         }
     }
